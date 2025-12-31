@@ -4,7 +4,7 @@ I'm Alp, a Cybersecurity undergraduate at Northeastern University (Khoury Colleg
 
 ## 🌐 Contact Me:
 I am always open to connecting, you can find me here: <br><br>
-[![Website](https://img.shields.io/badge/Website-alpberrak.com-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alpberrak.com)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=google-chrome&logoColor=white)](https://alpberrak.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alpBerrak)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alpbberrak@gmail.com) 
 
 # 💻 Tech Stack:
